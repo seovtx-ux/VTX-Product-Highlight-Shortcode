@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+/* Swiper Customize */
+.product-swiper .swiper-button-next,
+.product-swiper .swiper-button-prev {
+  color: #0056b3; /* Viễn Thông Xanh brand color roughly */
+  background: rgba(255, 255, 255, 0.8);
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.product-swiper .swiper-button-next:after,
+.product-swiper .swiper-button-prev:after {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.product-swiper .swiper-pagination-bullet-active {
+  background: #0056b3;
+}
+
+.thumb-swiper .swiper-slide-thumb-active {
+  opacity: 1;
+  border-color: #0056b3;
+}

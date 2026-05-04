@@ -1,0 +1,6 @@
+{
+  "name": "VTX Product Highlight Shortcode",
+  "description": "React implementation of a Box Highlight single product embed for articles with Swiper gallery and fallback states.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
